@@ -31,7 +31,7 @@
         weekdaysMin : 'So_Mo_Di_Mi_Do_Fr_Sa'.split('_'),
         weekdaysParseExact : true,
         longDateFormat : {
-            LT: 'HH:mm',
+            LT: 'HH:mm [Uhr]',
             LTS: 'HH:mm:ss',
             L : 'DD.MM.YYYY',
             LL : 'D. MMMM YYYY',

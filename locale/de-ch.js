@@ -35,8 +35,8 @@
             LTS: 'HH:mm:ss',
             L : 'DD.MM.YYYY',
             LL : 'D. MMMM YYYY',
-            LLL : 'D. MMMM YYYY HH:mm',
-            LLLL : 'dddd, D. MMMM YYYY HH:mm'
+            LLL : 'D. MMMM YYYY, HH:mm [Uhr]',
+            LLLL : 'dddd, D. MMMM YYYY, HH:mm [Uhr]'
         },
         calendar : {
             sameDay: '[heute um] LT [Uhr]',
